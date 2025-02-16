@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://github.com/ariscortico/ariscortico/blob/main/assets/banner.png" alt="Banner de Aris Manuel Cortico](https://www.canva.com/design/DAGfSlhs1T4/34F_HYnzlYvn6NQPhaVuzQ/watch?utm_content=DAGfSlhs1T4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3531ed7d52)" />
+  <img src="https://www.canva.com/design/DAGfSlhs1T4/34F_HYnzlYvn6NQPhaVuzQ/watch?utm_content=DAGfSlhs1T4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3531ed7d52" alt="Banner de Aris Manuel Cortico" />
 </p>
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
