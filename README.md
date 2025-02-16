@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/pDpQE7e.gifv" alt="GIF animado" />
+  <video autoplay loop muted>
+    <source src="https://i.imgur.com/pDpQE7e.mp4" type="video/mp4">
+  </video>
 </p>
 
 
