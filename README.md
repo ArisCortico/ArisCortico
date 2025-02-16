@@ -1,17 +1,19 @@
-<h1 align="center">Hola, soy [Tu Nombre] 👋</h1>
-<h3 align="center">Desarrollador [Junior/Web/Full Stack] apasionado por la tecnología 🚀</h3>
+<h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
+<h3 align="center">Desarrollador Full Stack | Freelancer con 3 años de experiencia 🚀</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TuUsuario&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
+  <img src="https://komarev.com/ghpvc/?username=ariscortico&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
 </p>
 
 ---
 
 ## 🔥 Sobre mí
-- 🌱 Actualmente estoy aprendiendo **[Tecnología que estás aprendiendo]**  
-- 👨‍💻 Trabajo en proyectos con **[Stack de tecnologías]**  
-- 🎯 Interesado en **[Áreas de interés: Frontend, Backend, IA, etc.]**  
-- 📫 Contáctame: **[Tu email o redes sociales]**  
+- 🎯 Soy desarrollador Full Stack con **3 años de experiencia como freelancer**  
+- 💼 Actualmente trabajo en **Workana**  
+- 🌱 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades  
+- 📫 Contáctame en: **arismanuel.c.r@gmail.com**  
+- 🌐 Mi portafolio: [ariscortico.github.io/portafolio](https://ariscortico.github.io/portafolio/)  
+- 💼 LinkedIn: [Aris Manuel Cortico Ramírez](https://www.linkedin.com/in/aris-manuel-cortico-ramirez-550106340/)  
 
 ---
 
@@ -56,16 +58,15 @@
 
 ## 📊 Mis estadísticas
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TuUsuario&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TuUsuario&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ariscortico&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ariscortico&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌍 Encuéntrame en:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/TuUsuario)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/TuUsuario)
-[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://TuPortafolio.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aris-manuel-cortico-ramirez-550106340/)
+[![Portafolio](https://img.shields.io/badge/-Portafolio-FF5722?style=flat&logo=google-chrome&logoColor=white)](https://ariscortico.github.io/portafolio/)
 
 ---
 
