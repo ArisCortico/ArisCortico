@@ -1,9 +1,4 @@
-<p align="center">
-  <iframe src="https://www.canva.com/design/DAGfSlhs1T4/34F_HYnzlYvn6NQPhaVuzQ/watch?embed" 
-          width="800" height="450" 
-          frameborder="0" allowfullscreen>
-  </iframe>
-</p>
+![GIF animado](https://imgur.com/a/FsR44PO)
 
 
 
