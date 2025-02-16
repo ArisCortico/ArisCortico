@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.imgur.com/https://imgur.com/a/FsR44PO" alt="GIF animado" />
+  <img src="https://i.imgur.com/pDpQE7e.gif" alt="GIF animado" />
 </p>
 
 
