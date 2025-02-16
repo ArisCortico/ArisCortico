@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://i.imgur.com/pDpQE7e.gif" alt="GIF animado" />
+  <img src="https://i.imgur.com/pDpQE7e.gifv" alt="GIF animado" />
 </p>
-
 
 
 
