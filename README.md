@@ -1,6 +1,10 @@
 <p align="center">
-  <iframe src="[ENLACE_DE_INCRUSTACIÓN_DEL_VIDEO_DE_CANVA](https://www.canva.com/design/DAGfSlhs1T4/34F_HYnzlYvn6NQPhaVuzQ/watch?utm_content=DAGfSlhs1T4&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h3531ed7d52)" width="560" height="315" frameborder="0" allowfullscreen></iframe>
+  <iframe src="https://www.canva.com/design/DAGfSlhs1T4/34F_HYnzlYvn6NQPhaVuzQ/watch?embed" 
+          width="800" height="450" 
+          frameborder="0" allowfullscreen>
+  </iframe>
 </p>
+
 
 
 
