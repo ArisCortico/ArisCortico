@@ -1,4 +1,6 @@
-![GIF animado](https://imgur.com/a/FsR44PO)
+<p align="center">
+  <img src="https://imgur.com/a/FsR44PO" alt="GIF animado" />
+</p>
 
 
 
