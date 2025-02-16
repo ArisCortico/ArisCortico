@@ -1,9 +1,7 @@
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
 <h3 align="center">Desarrollador Full Stack | Freelancer con 3 años de experiencia 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ariscortico&label=Visitas&color=blue&style=flat" alt="contador de visitas" />
-</p>
+
 
 ---
 
