@@ -1,6 +1,6 @@
 <p align="center">
   <video autoplay loop muted>
-    <source src="https://imgur.com/ozL1Rqh" type="video/mp4">
+    <source src="https://imgur.com/ozL1Rqh.gif" type="video/mp4">
   </video>
 </p>
 
