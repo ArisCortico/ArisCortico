@@ -1,7 +1,5 @@
-<p align="center">
-  <video autoplay loop muted>
-    <source src="https://github.com/ArisCortico/elementos/raw/refs/heads/main/img.mp4" type="video/mp4">
-  </video>
+# <p align="center">
+<img src="https://media4.giphy.com/media/FlqpAfjtYPVNNMSHpK/giphy.gif" width="200">
 </p>
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
