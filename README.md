@@ -1,8 +1,7 @@
-<p align="center">
-  <video autoplay loop muted>
-    <source src="https://drive.google.com/file/d/18UidUT54XV8-msSCHDr63DdpfPVt18Qh/view?usp=drive_link" type="video/mp4">
-  </video>
-</p>
+<video autoplay loop muted>
+  <source src="https://drive.google.com/uc?export=download&id=18UidUT54XV8-msSCHDr63DdpfPVt18Qh" type="video/mp4">
+</video>
+
 
 
 
