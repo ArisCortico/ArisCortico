@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/FlqpAfjtYPVNNMSHpK/giphy.gif" width="200">
+<img src="https://media.giphy.com/media/wel1vvgXM2a7hRWttF/giphy.gif?cid=790b7611l2ognc5py4lm0u8t75b2i3equrldkrorrdtwytg6&ep=v1_gifs_trending&rid=giphy.gif&ct=g" width="200">
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
 <h3 align="center">Desarrollador Full Stack | Freelancer con 3 años de experiencia 🚀</h3>
