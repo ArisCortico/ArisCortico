@@ -1,7 +1,5 @@
 <p align="center">
-  <video autoplay loop muted>
-    <source src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB2NjZ5NGQ2OGI4NXk0aWdhNDhqbHFjNWd1OHVnOHAybnN3aXBlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlqpAfjtYPVNNMSHpK/giphy.gif" type="video/mp4">
-  </video>
+<iframe src="https://giphy.com/embed/FlqpAfjtYPVNNMSHpK" width="480" height="192" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/FlqpAfjtYPVNNMSHpK">via GIPHY</a></p>
 </p>
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
