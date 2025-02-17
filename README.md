@@ -1,9 +1,8 @@
-<video autoplay loop muted>
-  <source src="https://drive.google.com/uc?export=download&id=18UidUT54XV8-msSCHDr63DdpfPVt18Qh" type="video/mp4">
-</video>
-
-
-
+<p align="center">
+  <video autoplay loop muted>
+    <source src="https://raw.githubusercontent.com/ArisCortico/elementos/main/img.mp4" type="video/mp4">
+  </video>
+</p>
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
 <h3 align="center">Desarrollador Full Stack | Freelancer con 3 años de experiencia 🚀</h3>
