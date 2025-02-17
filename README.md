@@ -1,8 +1,8 @@
-<p align="center">
+
   <video autoplay loop muted>
     <source src="https://i.imgur.com/ozL1Rqh.mp4" type="video/mp4">
   </video>
-</p>
+
 
 
 
