@@ -1,6 +1,6 @@
 <p align="center">
   <video autoplay loop muted>
-    <source src="https://raw.githubusercontent.com/ArisCortico/elementos/main/img.mp4" type="video/mp4">
+    <source src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHB2NjZ5NGQ2OGI4NXk0aWdhNDhqbHFjNWd1OHVnOHAybnN3aXBlaSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/FlqpAfjtYPVNNMSHpK/giphy.gif" type="video/mp4">
   </video>
 </p>
 
