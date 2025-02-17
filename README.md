@@ -3,14 +3,14 @@
 </p>
 
 <h1 align="center">Hola, soy Aris Manuel Cortico Ramírez 👋</h1>
-<h3 align="center">Desarrollador Full Stack | Freelancer con 3 años de experiencia 🚀</h3>
+<h3 align="center">Desarrollador Full Stack</h3>
 
 
 
 ---
 
 ## 🔥 Sobre mí
-- 🎯 Soy desarrollador Full Stack con **3 años de experiencia como freelancer**  
+- 🎯 Soy desarrollador Full Stack con **4 años de experiencia como freelancer**  
 - 💼 Actualmente trabajo en **Workana**  
 - 🌱 Siempre aprendiendo nuevas tecnologías para mejorar mis habilidades  
 - 📫 Contáctame en: **arismanuel.c.r@gmail.com**  
